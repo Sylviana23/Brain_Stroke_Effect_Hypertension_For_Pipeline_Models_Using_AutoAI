@@ -58,12 +58,12 @@ https://www.kaggle.com/datasets/jillanisofttech/brain-stroke-dataset
 
 ## Kesimpulan
 
-Berdasarkan hasil Predict Lung Cancer effect Smoking with pipeline models using AutoAI, dapat disimpulkan bahwa:
+Berdasarkan hasil Predict Brain Stroke effect Hypertension with pipeline models using AutoAI, dapat disimpulkan bahwa:
 
-- Algoritma yang digunakan adalah Extra Trees Classifier. Algoritma ini telah terbukti efektif dalam memprediksi efek merokok terhadap kanker paru-paru.
+- Algoritma yang digunakan adalah Snap Random Forest Classifier. Algoritma ini telah terbukti efektif dalam memprediksi efek Hypertension terhadap Brain Stroke.
 
-- Model yang dikembangkan dengan menggunakan algoritma tersebut mencapai tingkat akurasi sebesar 0.867. Angka ini menunjukkan bahwa model memiliki kemampuan yang baik dalam mengklasifikasikan efek merokok terhadap kanker paru-paru.
+- Model yang dikembangkan dengan menggunakan algoritma tersebut mencapai tingkat akurasi sebesar 0.904. Angka ini menunjukkan bahwa model memiliki kemampuan yang baik dalam mengklasifikasikan efek Hypertension terhadap brain stroke.
 
 - Dilakukan beberapa peningkatan (enhancements) pada model, yaitu 1st dan 2nd Hyperparameter Optimization serta Feature Engineering. Peningkatan ini membantu meningkatkan performa model dengan mengoptimalkan parameter dan mengubah fitur yang digunakan.
 
-Dengan hasil tersebut, studi ini memberikan pemahaman yang lebih baik tentang hubungan antara merokok dan kanker paru-paru. Model yang dikembangkan memiliki tingkat akurasi yang tinggi dan telah mengalami peningkatan melalui proses optimisasi parameter dan rekayasa fitur. Implikasinya, model ini dapat digunakan sebagai alat yang berguna dalam memprediksi dan memahami dampak merokok terhadap kesehatan paru-paru.
+Dengan hasil tersebut, studi ini memberikan pemahaman yang lebih baik tentang hubungan antara hypertension dan Brain Stroke. Model yang dikembangkan memiliki tingkat akurasi yang tinggi dan telah mengalami peningkatan melalui proses optimisasi parameter dan rekayasa fitur. Implikasinya, model ini dapat digunakan sebagai alat yang berguna dalam memprediksi dan memahami pengaruh hypertension terhadap kesehatan brain stroke.
